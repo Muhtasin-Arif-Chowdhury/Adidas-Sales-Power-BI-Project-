@@ -84,5 +84,6 @@ Retailer Analysis: West Gear Retailer and Foot Locker lead in sales, indicating 
 Pricing Strategy: An average price per unit of $45.2 highlights a balanced approach between affordability and value.
 
 Conclusion
+
 This comprehensive Power BI-driven analysis empowers Adidas' decision-makers with actionable insights, fostering strategic growth and enhanced competitiveness in the dynamic sports and athletic industry.
 
